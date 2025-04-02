@@ -1,4 +1,5 @@
 https://chatgpt.com/c/67dca03f-f690-800a-8662-8fb6bbba48c2
+https://same.new/chat/doctor-registration-system-z9gz2v7ep6a
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
